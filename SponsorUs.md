@@ -23,16 +23,18 @@ This can also be done online at <a href="http://www.brooklinerobotics.org/" a> b
 
 Online donations are additionally available to the right, simply follow the instructions below.
 
-<h2><center>Make an online donation!</center></h2>
-- Start by scrolling down to "One-Time Donation" and enter a dollar amount or click on one of the preset defaults.
-- Click on the drop down to select Donation Designation and select "LSN Robotics Fund".
-- Ensure that you did not accidently select a different Lee's Summit School, ensure that the Donation Designation is going to "LSN".
-- If you would like to dedicate the donation then click on the check box labeled "I would like to dedicate this donation" and fill in the information.
-- Click Next.
-- Accurately fill in all Contact Information
-- Click Next.
-- Confirm the donation amount and click Next again.
-- Select if you would like LSEF to cover the processing costs or not.
-- Fill in all payment and Credit Card Information
-- Thank you so much! If you would like to see if you are eligible now to become an official sponsor then fill out the contact form below.
+<br>
+<h2 style ="font-size:2rem"><center>Make an online donation!</center></h2>
+<br>
+1. Start by scrolling down to "One-Time Donation" and enter a dollar amount or click on one of the preset defaults.
+2. Click on the drop down to select Donation Designation and select "LSN Robotics Fund".
+3. Ensure that you did not accidently select a different Lee's Summit School, ensure that the Donation Designation is going to "LSN".
+4. If you would like to dedicate the donation then click on the check box labeled "I would like to dedicate this donation" and fill in the information.
+5. Click Next.
+6. Accurately fill in all Contact Information
+7. Click Next.
+8. Confirm the donation amount and click Next again.
+9. Select if you would like LSEF to cover the processing costs or not.
+10. Fill in all payment and Credit Card Information
+11. Thank you so much! If you would like to see if you are eligible now to become an official sponsor then fill out the contact form below.
 
