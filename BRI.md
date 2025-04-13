@@ -4,7 +4,7 @@ title: The Brookline Robotics Initiative
 subtitle: Our 501(c)(3) non-profit!
 description: Brookline Robotics Initiative Summer Camps
 show_sidebar: false
-hero_image: ../images/TeamMembers/websiteTestImage1.jpg
+hero_image: ../images/NoImage.png
 down_breaks: true
 hero_darken: true
 hero_height: is-medium
