@@ -8,20 +8,22 @@
 - name: About Us
   link: /#
   dropdown:
+    - name: The B.R.I.
+      link: /BRI/
+    - name: Meet the Team
+      link: /MeetTeam/
     - name: Our Awards
       link: /awards/
     - name: Branding
       link: /Branding/
-    - name: Meet the Team
-      link: /MeetTeam/
-- name: Resources
-  link: /#
-  dropdown:
-    - name: Helpful Links
-      link: /HelpfulLinks/
-    - name: Assets
-      link: /assets/
-    - name: Videos
-      link: /videos/
+#- name: Resources
+#  link: /#
+#  dropdown:
+#    - name: Helpful Links
+#      link: /HelpfulLinks/
+#    - name: Assets
+#      link: /assets/
+#    - name: Videos
+#      link: /videos/
 - name: Summer Camps
   link: /SummerCamps/
