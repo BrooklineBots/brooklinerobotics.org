@@ -19,12 +19,26 @@
                     <p style="font-size: 1.3rem" class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
 
                         <strong style="font-weight: 800">{{ member.name }}</strong>
-                        <br><strong style="font-weight: 400">{{ member.role }}</strong>
+                        {% if tier.tier_name == "Team Members" %}
+                            {% if member.captain %}
+                            <br><strong style="font-weight: 400">☆️ Team Captain ☆️</strong>
+                            {% else %}
+                            <br><strong style="font-weight: 400">Team Member</strong>
+                            {% endif %}
+
+                            <br><strong style="font-weight: 400; font-size: 1.2rem">'{{member.year️}}</strong>
+                        {% endif %}
+
+                        {% if tier.tier_name == "Mentors and Coaches" %}
+                        <br><strong style="font-weight: 400">{{member.role}}</strong>
+                        {% endif %}
+
+
 
                     </p>
 
                     {% if member.image %}
-                    <img src= {{ member.image }} alt=" ">
+                    <img  src= {{ member.image }} alt=" " style="max-height: 26rem;">
                     {% else %}
                     &nbsp;
                     {% endif %}
