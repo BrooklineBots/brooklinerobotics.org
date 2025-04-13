@@ -12,7 +12,7 @@
     - name: "Sophia Heinrich"
       year: "'25"
       role: "☆️ Team Captain ☆️"
-      image: ../images/TeamMembers/websiteTestImage1.jpg
+      image: ../images/TeamMembers/defaultPfp.jpg
       bio: "Sophia is a third-year member and team captain."
 
     - name: "Callie Wu"
@@ -31,32 +31,32 @@
     - name: "Ellie Linas"
       year: "'25"
       role: "Team Member"
-      image: ../images/TeamMembers/websiteTestImage1.jpg
+      image: ../images/TeamMembers/defaultPfp.jpg
       bio: "Ellie is a fourth-year member."
 
     - name: "Isabel Oldham"
       year: "'25"
       role: "Team Member"
-      image: ../images/TeamMembers/websiteTestImage1.jpg
+      image: ../images/TeamMembers/defaultPfp.jpg
       bio: "Isabel is a third-year member."
 
     - name: "Lauren Fisch"
       year: "'25"
       role: "Team Member"
-      image: ../images/TeamMembers/websiteTestImage1.jpg
+      image: ../images/TeamMembers/defaultPfp.jpg
       bio: "Lauren is a second-year member."
 
     - name: "Alina Samarasan"
       year: "'25"
       role: "Team Member"
-      image: ../images/TeamMembers/websiteTestImage1.jpg
+      image: ../images/TeamMembers/defaultPfp.jpg
       bio: "Alina is a third-year member."
 
     #Sophmores
     - name: "Yael Shapiro"
       year: "'27"
       role: "Team Member"
-      image: ../images/TeamMembers/websiteTestImage1.jpg
+      image: ../images/TeamMembers/defaultPfp.jpg
       bio: "Yael is a first-year member."
 
     - name: "Talia Hsieh"
@@ -68,7 +68,7 @@
     - name: "Sofi Ugalde"
       year: "'27"
       role: "Team Member"
-      image: ../images/TeamMembers/websiteTestImage1.jpg
+      image: ../images/TeamMembers/defaultPfp.jpg
       bio: "Sofi is a first-year member."
 
     #Freshman
