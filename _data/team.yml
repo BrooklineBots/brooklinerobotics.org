@@ -31,75 +31,63 @@
     #Seniors
     - name: "Ellie Linas"
       year: 25
-      captain: false
       image: ../images/Assets/Branding/BrooklineBots.svg
       bio: "Ellie is a fourth-year member."
 
     - name: "Isabel Oldham"
       year: 25
-      captain: false
       image: ../images/Assets/Branding/BrooklineBots.svg
       bio: "Isabel is a third-year member."
 
     - name: "Lauren Fisch"
       year: 25
-      captain: false
       image: ../images/Assets/Branding/BrooklineBots.svg
       bio: "Lauren is a second-year member."
 
     - name: "Alina Samarasan"
       year: 25
-      captain: false
       image: ../images/Assets/Branding/BrooklineBots.svg
       bio: "Alina is a third-year member."
 
     #Sophmores
     - name: "Yael Shapiro"
       year: 27
-      captain: false
       image: ../images/Assets/Branding/BrooklineBots.svg
       bio: "Yael is a first-year member."
 
     - name: "Talia Hsieh"
       year: 27
-      captain: false
       image: ../images/TeamMembers/Talia.jpg
       bio: "Talia is a first-year member."
 
     - name: "Sofi Ugalde"
       year: 27
-      captain: false
       image: ../images/Assets/Branding/BrooklineBots.svg
       bio: "Sofi is a first-year member."
 
     #Freshman
     - name: "Brielle Hwang"
       year: 28
-      captain: false
       image: ../images/TeamMembers/Brielle.jpg
       bio: "Brielle is a second-year member."
 
     - name: "Ariel Ben-Asher"
       year: 28
-      captain: false
       image: ../images/TeamMembers/Ariel.jpg
       bio: "Ariel is a first-year member."
 
     - name: "Sophie Isla Farago"
       year: 28
-      captain: false
       image: ../images/TeamMembers/Sophie.jpg
       bio: "Sophie is a first-year member."
 
     - name: "Lily Burke"
       year: 28
-      captain: false
       image: ../images/TeamMembers/Lily.jpg
       bio: "Lily is a first-year member."
 
     - name: "Hailey Silk"
       year: 28
-      captain: false
       image: ../images/TeamMembers/Hailey.jpg
       bio: "Hailey is a first-year member."
 
@@ -125,7 +113,7 @@
     - name: "Georgie Ford"
       role: "Technical CAD mentor "
       image: ../images/Assets/Branding/BrooklineBots.svg
-      bio: "Georgie advies our CADers and is a student at Boston University. As an alumni of FIRST, she can also give us general reccomendations."
+      bio: "Georgie advises our CADers and is a student at Boston University. As an alumni of FIRST, she can give us specialized recommendations."
 
     - name: "Britt Stevens"
       role: "Mentor"
