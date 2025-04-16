@@ -3,7 +3,7 @@ layout: page
 title: Branding
 subtitle: Our Team Identity
 show_sidebar: false
-hero_image: ../images/Assets/Branding/HighResBroncobotLogo.png
+hero_image: ../images/Assets/Branding/BrandingHeader.png
 hero_darken: true 
 hero_height: is-large
 --- 
@@ -12,27 +12,35 @@ hero_height: is-large
 
 <h2><center>Logo</center></h2>
 
-<p>Our team offers three usable logos. </p>
+<p>Our team offers four usable logos. </p>
 
 <p>We offer a scalable svg file, used when possible.</p>
 
 <a href="../images/Assets/Branding/BrooklineBots.svg" download>
     <img width="300px" src="../images/Assets/Branding/BrooklineBots.svg" alt="../images/NoImage.png">
 </a>
-                                               
+ 
 <p>In addition we provide a high resolution logo. Used whenever svg is not a viable option and it is expected to be enlarged or seen at a large scale.</p>
-<a href="../images/Assets/Branding/HighResBroncobotLogo.png" download>
-    <img width="300px" src="../images/Assets/Branding/HighResBroncobotLogo.png" alt="../images/NoImage.png">
+<a href="../images/Assets/Branding/BrooklineBots.svg" download>
+<img width="250px" src="../images/Assets/Branding/BrooklineBots.svg" alt="../images/NoImage.png">
 </a>
-<p>Completing the set we have the original Brookline Bots logo. In its original quality, to be used when the logo is smaller scaled or when the only feasable option.</p>
-<a href="../images/Assets/Branding/OfficialBroncobotLogo.png" download>
-    <img width="300px" src="../images/Assets/Branding/OfficialBroncobotLogo.png" alt="../images/NoImage.png">
+
+<p>Completing the set we have the original Brookline Bots logo. In its original quality, to be used when the logo is smaller scaled or when it's the only feasable option.</p>
+<a href="../images/Assets/Branding/LowRes.png" download>
+    <img width="300px" src="../images/Assets/Branding/LowRes.png" alt="../images/NoImage.png">
 </a>
+<br>
+
+<p>We also offer a illustrator file, if needed. <a href="../images/Assets/Branding/Logo.ai" download>
+<img width="30px" src="../images/AI_Icon.svg" alt="../images/NoImage.png">
+</a></p>
+<br>
+
 <h2>Colors</h2>
-<p> Our team colors are Maroon, Black, and Gray. We determine which color is used based off of availability and choice of the creator.</p>
+<p> Our team colors are Pink, Purple, and Blue. We determine which color is used based off of availability and choice of the creator.</p>
 
 <a href="../images/Assets/Branding/colors.png" download>
-    <img src="../images/Assets/Branding/colors.png" alt="../images/NoImage.png">
+    <img width = "50%" src="../images/Assets/Branding/colors.png" alt="../images/NoImage.png">
 </a>
 
 <h2>Fonts</h2>
