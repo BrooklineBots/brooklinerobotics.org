@@ -31,9 +31,8 @@ hero_height: is-large
 <p>We also offer a illustrator file, if needed. </p>
 
 <a href="../images/Assets/Branding/Logo.ai" download>  
-<img width="300px" src="../images/Assets/Branding/AdobeIllustratorIcon.png">
+<img width="200px" src="../images/AI_Icon.svg">
 </a>
-
 
 <h2>Colors</h2>
 <p> Our team colors are Dark Purple, Pink, and Sky Blue . We determine which color is used based off of vibrance and cohesivness.</p>
