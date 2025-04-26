@@ -17,13 +17,9 @@ down_breaks: false
 267 Eliot St
 Chestnut Hill, MA  02467</h3>
 <br>
-<h2>Be sure to write Brookline Bots on the memo line of your check so the donation can go to our team. </h2>
+<h2>Be sure to write "Brookline Bots" on the memo line of your check so the donation can go to our team. </h2>
 
 This can also be done online at <a href="http://www.brooklinerobotics.org/" a> brooklinerobotics.org </a> 
 
-Online donations are additionally available to the right, simply follow the instructions below.
 
-<br>
-<h2 style ="font-size:2rem"><center>Make an online donation!</center></h2>
-<br>
 
