@@ -1,7 +1,5 @@
 #Copy Youtube link and remove everything except the last identifing sections
 # for drive click the top three dots and copy the embeds file id =>  https://drive.google.com/file/d/FILES'S ID/preview
-- Video: TpBkJ0Xb6ME
-  description: Brookline Bots Qualifier Recap
 - Video: 16UUfGXDm6UX_mj2QAB0-A8F81zeT4u3p
-  description: 2021 competition video
+  description: 2025 Brookline Bots Qualifier Recap
   drive: true
