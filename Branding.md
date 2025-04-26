@@ -22,7 +22,7 @@ hero_height: is-large
 <p> Our team colors are Violet, Dark Purple, Pink, and Sky Blue . We determine which color is used based off of vibrance and cohesivness.</p>
 
 <a href="../images/Assets/Branding/BrandingColors.png" download>
-    <img src="../images/Assets/Branding/BrandingColors.png" alt="../images/NoImage.png">
+    <img width = "50%" src="../images/Assets/Branding/BrandingColors.png" alt="../images/NoImage.png">
 </a>
 
 <h2>Fonts</h2>
