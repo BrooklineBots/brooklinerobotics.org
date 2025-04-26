@@ -13,7 +13,7 @@
     - name: BHS Science Department
       description: School Sponsor
       profile: https://bhs.brookline.k12.ma.us/science.html
-      image: ../images/sponsors/brooklineWariorsLogo.jpeg
+      image: ../images/sponsors/WarriorsLogo.png
     - name: AES Corporation
       description: Company Sponsor
       image: ../images/sponsors/AesCorp.jpg
@@ -23,7 +23,7 @@
       image: ../images/sponsors/Robert_Rzika.jpg
     - name: Glassman and Associates
       description: Company Sponsor
-      image: ../images/sponsors/GlassmanAndAssociates.png
+      image: ../images/sponsors/GlassmanLogo.png
     - name: Eduporium
       description: Company Sponsor
       profile: https://www.eduporium.com/
@@ -47,5 +47,6 @@
       description: Personal Sponsor
     - name: Rizika Realty Trust
       description: Company Sponsor
+
 
 
