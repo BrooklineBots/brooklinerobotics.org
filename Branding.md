@@ -31,7 +31,7 @@ hero_height: is-large
 <p>We also offer a illustrator file, if needed. </p>
 
 <a href="../images/Assets/Branding/Logo.ai" download>  
-<img width="300px" src="../images/Assets/Branding/Logo.ai"">
+<img width="300px" src="../images/Assets/Branding/AdobeIllustratorIcon.png">
 </a>
 
 
