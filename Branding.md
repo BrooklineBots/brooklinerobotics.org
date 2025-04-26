@@ -15,14 +15,14 @@ hero_height: is-large
 <p>We offer a scalable svg file, used when possible.</p>
 
 <a href="../images/Assets/Branding/BrooklineBots.svg" download>
-    <img width="300px" src="../images/Assets/Branding/BrooklineBots.svg" alt="../images/NoImage.png">
+    <img width="300px" src="../images/Assets/Branding/BrooklineBots.svg">
 </a>
 
 <h2>Colors</h2>
 <p> Our team colors are Violet, Dark Purple, Pink, and Sky Blue . We determine which color is used based off of vibrance and cohesivness.</p>
 
 <a href="../images/Assets/Branding/BrandingColors.png" download>
-    <img width = "50%" src="../images/Assets/Branding/BrandingColors.png" alt="../images/NoImage.png">
+    <img width = "50%" src="../images/Assets/Branding/BrandingColors.png">
 </a>
 
 <h2>Fonts</h2>
