@@ -10,16 +10,29 @@ hero_height: is-large
 <div class="full" style="text-align: center">
 <p>Branding is a vital and crucial part of Team 17218. Below you can find our standards in branding.</p>
 
-<h2><center>Logo</center></h2>
 
+<h2><center>Logo</center></h2>
+<p>Our team offers three usable logos. </p>
 <p>We offer a scalable svg file, used when possible.</p>
 
 <a href="../images/Assets/Branding/BrooklineBots.svg" download>
     <img width="300px" src="../images/Assets/Branding/BrooklineBots.svg">
 </a>
 
+<p>In addition we provide a high resolution logo. Used whenever svg is not a viable option and it is expected to be enlarged or seen at a large scale.</p> 
+
+<a href ="../images/Assets/Branding/HighRes.png" download>
+<img width="300px" src="../images/Assets/Branding/HighRes.png" >
+</a>
+
+<br>
+<br>
+<p>We also offer a illustrator file, if needed. <a href="../images/Assets/Branding/Logo.ai" download>
+<img width="300px" src="../images/AI_Icon.svg"">
+</a>
+
 <h2>Colors</h2>
-<p> Our team colors are Violet, Dark Purple, Pink, and Sky Blue . We determine which color is used based off of vibrance and cohesivness.</p>
+<p> Our team colors are Dark Purple, Pink, and Sky Blue . We determine which color is used based off of vibrance and cohesivness.</p>
 
 <a href="../images/Assets/Branding/BrandingColors.png" download>
     <img width = "50%" src="../images/Assets/Branding/BrandingColors.png">
