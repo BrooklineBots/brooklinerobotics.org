@@ -1,17 +1,17 @@
 - name: FTC website
-  image: ../images/resources/ReCalc.PNG
+  image: ../images/resources/FTCLogo.jpg
   description: An important place to find season information from FIRST
   link: //www.firstinspires.org/robotics/ftc
 - name: FTC Scout
-  image: ../images/resources/FtcScout.png
+  image: ../images/resources/FtcScout.jpg
   description: A helpful tool to track teams during events.
   link: //www.ftcscout.com/team/17218
 - name: Onshape
-  image: ../images/resources/Onshape.PNG
+  image: ../images/resources/OnShape.png
   description: The program we use for all our CAD models.
   link: //www.onshape.com/en/
 - name: Brookline Robotics Initiative
-  image: ../images/resources/CompassAlliance.PNG
+  image: ../images/resources/BriWebsite.png
   description: The Brookline Robotics Initiative is a 501(c)(3) non-profit started by the Brookline Bots to create STEM education opportunities in the greater Boston area.
   link: //www.brooklinerobotics.org/
 - name: Game Manual 0
@@ -19,13 +19,9 @@
   description: Everything you need to know about FTC
   link: //gm0.org/en/latest/
 - name: Robot Wiring Guide
-  image: ../images/resources/Onshape4FRC.PNG
+  image: ../images/resources/RobotWiringGuide.png
   description: Guide for how to properly wire an FTC robot.
   link: //www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/robot-wiring-guide.pdf
-- name: Chief Delphi
-  image: ../images/resources/ChiefDelphi.svg
-  description: The social media of FIRST!
-  link: //www.chiefdelphi.com
 - name: Gear Calculator
   image: ../images/resources/GearCalculator.PNG
   description: A gear calculator tool.
@@ -34,8 +30,5 @@
   image: ../images/resources/BeltCalculator.PNG
   description: A belt Calculator tool.
   link: //www.wcproducts.com/pages/calculator-belt?pitch=3&calc_unit=in&vex_modifield=true&pulley1t=16&pulley2t=24&desired_center=5.000&extra_center=0.000
-- name: Design Spreadsheets
-  image: ../images/resources/DesignSpreadsheets.PNG
-  description: A Spectrum Robot Design Sheet.
-  link: //blog.spectrum3847.org/2017/12/spectrum-robot-design-sheet.html
+
 
