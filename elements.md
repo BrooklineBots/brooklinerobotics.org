@@ -1,20 +1,25 @@
 ---
 layout: page
-title: Elements
+title: Sponsors
 description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
 ---
 
 <section>
-	<h4>Text</h4>
-	<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+	<h4>Become a Sponsor for the BRI</h4>
+	As a nonprofit, we're extremely grateful for all your support. 
+<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 	This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
 	This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
 	<hr />
 	<header>
-		<h4>Heading with a Subtitle</h4>
+		<h4>Why Become a Sponsor</h4>
 		<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
 	</header>
-	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	<p>1) Our funding goes towards providing robotics classes, camps, workshops, & events to students of all backgrounds in Brookline. Robot parts are expensive! We also use our funds to buy wheels, U-channels, and more. 
+
+2) There are over 7,000 students in the Brookline Public Schools district, and we hope to reach all of them! With your help we can reach a larger group and make a bigger impact.
+
+3) Robotics isn't cheap, but its impact on young students is invaluable. By funding the Brookline Robotics Initiative (BRI), you are providing students the joy of learning how to build & program a robot, work as a team, persevere, communicate effectively & confidently, be creative, think critically, and so much more. We hope you see the value of robotics just as we do.</p>
 	<header>
 		<h5>Heading with a Subtitle</h5>
 		<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
