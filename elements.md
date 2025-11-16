@@ -1,15 +1,13 @@
 ---
 layout: page
 title: Sponsors
-description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+description: As a nonprofit, we couldn't do it without you. 
 ---
 
 <section>
 	<h4>Become a Sponsor for the BRI</h4>
-	As a nonprofit, we're extremely grateful for all your support. 
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-	This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-	This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+	We are grateful for your generous support.
+<p> To learn more about Brookline's 4 teams,click <a href="/spectral-jekyll-theme/generic.html">here</a>.</p>
 	<hr />
 	<header>
 		<h4>Why Become a Sponsor</h4>
