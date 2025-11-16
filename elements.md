@@ -75,10 +75,10 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			</ol>
 			<h5>Icons</h5>
 			<ul class="icons">
-				<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-				<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-				<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-				<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+				<li><a href="#" class="icon fa-brands fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="#" class="icon fa-brands fa-facebook"><span class="label">Facebook</span></a></li>
+				<li><a href="#" class="icon fa-brands fa-instagram"><span class="label">Instagram</span></a></li>
+				<li><a href="#" class="icon fa-brands fa-github"><span class="label">Github</span></a></li>
 			</ul>
 		</div>
 	</div>
@@ -232,8 +232,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 		<li><a href="#" class="button special fit small">Fit + Small</a></li>
 	</ul>
 	<ul class="actions">
-		<li><a href="#" class="button special icon fa-download">Icon</a></li>
-		<li><a href="#" class="button icon fa-download">Icon</a></li>
+		<li><a href="#" class="button special icon fa-solid fa-download">Icon</a></li>
+		<li><a href="#" class="button icon fa-solid fa-download">Icon</a></li>
 	</ul>
 	<ul class="actions">
 		<li><span class="button special disabled">Disabled</span></li>
