@@ -1,40 +1,43 @@
 <section id="two" class="wrapper alt style2">
 
-	{% for post in site.posts limit:site.tiles-count %}{% if site.tiles-source == 'posts' %}
+	{% for post in site.posts limit:site.tiles-count %}
+	{% if site.tiles-source == 'posts' %}
 
 	<section class="spotlight">
 		<div class="image">
-			{% if post.image %}<img src="{% if site.featured-image-source %}{{ post.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ post.image }}{% endif %}" alt="" />
-
-			{% else if post.video %}
-
-			<iframe height="400" width="100%" src="https://www.youtube.com/embed/{{post.video}}" title="259 NP WR | FTC DECODE | 18270 &amp; 24799" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-			{% endif %}
-
+			{% if post.image %}
+			<img src="{% if site.featured-image-source %}{{ post.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ post.image }}{% endif %}" alt="" />
+			{% elsif post.video %}
+			<iframe height="400" width="100%" src="https://www.youtube.com/embed/{{ post.video }}" title="{{ post.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+			{% elsif post.videoTwo %}
+			<iframe height="400" width="100%" src="https://www.youtube.com/embed/{{ post.videoTwo }}" title="{{ post.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 		</div>
+
 		<div class="content">
 			<h2><a href="{{ post.url | relative_url }}" class="link">{{ post.title }}</a></h2>
-			<p>{{ {% else if post.videoTwo %}
-
-				<iframe height="400" width="100%" src="https://www.youtube.com/embed/{{post.video}}" title="259 NP WR | FTC DECODE | 18270 &amp; 24799" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-				{% endif %}
-				}}</p>
+			<p>{{ post.excerpt }}</p>
 		</div>
 	</section>
 
-	{% endif %}{% endfor %}
-	{% for page in site.pages limit:site.tiles-count %}{% if site.tiles-source == 'pages' %}{% if page.layout == 'default' %}{% continue %}{% endif %}
+	{% endif %} {% endfor %}
+
+	{% for page in site.pages limit:site.tiles-count %}
+	{% if site.tiles-source == 'pages' %}
+	{% if page.layout == 'default' %}{% continue %}{% endif %}
 
 	<section class="spotlight">
-		<div class="image">{% if page.image %}<img src="{% if site.featured-image-source %}{{ page.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ page.image }}{% endif %}" alt="" />{% endif %}</div>
+		<div class="image">
+			{% if page.image %}
+			<img src="{% if site.featured-image-source %}{{ page.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ page.image }}{% endif %}" alt="" />
+			{% endif %}
+		</div>
 		<div class="content">
 			<h2><a href="{{ page.url | relative_url }}" class="link">{{ page.title }}</a></h2>
 			<p>{{ page.description }}</p>
 		</div>
 	</section>
 
-	{% endif %}{% endfor %}
+	{% endif %}
+	{% endfor %}
 
 </section>
